@@ -3,6 +3,7 @@
 Based on the bank loan report summary, here are the important points:
 
 • Total loan applications received were 38.6K, with a 6.91% increase month-over-month (MoM).
+
 • The total funded loan amount was $435.8M, with a 13.04% MoM increase.
 • The total received amount (likely principal plus interest) was $473.1M, with a 13.84% MoM increase.
 • The average interest rate on loans was 12.05%, with a 3.47% MoM increase.
